@@ -1,0 +1,11 @@
+# Build output
+bin/
+*.o
+
+# macOS
+.DS_Store
+
+# Internal
+.vscode
+.cursor
+
